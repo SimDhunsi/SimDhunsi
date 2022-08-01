@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning TypeScript, React and Kubernetes
 - 👯 I’m looking to collaborate on Open Source projects
-- 🤔 I’m looking for help with Docker
 
 ### Come talk with me, I might be awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
